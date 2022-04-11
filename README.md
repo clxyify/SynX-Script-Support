@@ -1,6 +1,6 @@
 # SynX-Script-Support
 
-Some scripts check for `syn`, but this problem is now solved.
+Some scripts check for synapse x support, but this problem is now solved.
 
 # Script Functions Supported
 `syn`
