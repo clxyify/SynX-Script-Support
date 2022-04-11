@@ -7,3 +7,5 @@ Some scripts check for `syn`, but this problem is now solved.
 `synapsex`
 `PROTOSMASHER_LOADED`
 `is_synapse_function`
+
+You can check the function by running a synapse X script!
