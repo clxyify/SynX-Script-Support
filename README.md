@@ -13,4 +13,4 @@ You can check the function by running a synapse X script!
 # Side Announcement
 
 Please use **SynX2** as it's better at non-detections.
-![](https://github.com/user/banner.png](https://cdn.discordapp.com/attachments/977203991068962836/978385283139653703/unknown.png)
+![]([https://github.com/user/banner.png](https://cdn.discordapp.com/attachments/977203991068962836/978385283139653703/unknown.png)]()
