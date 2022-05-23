@@ -9,3 +9,8 @@ Some scripts check for synapse x support, but this problem is now solved.
 `is_synapse_function`
 
 You can check the function by running a synapse X script!
+
+# Side Announcement
+
+Please use **SynX2** as it's better at non-detections.
+https://cdn.discordapp.com/attachments/977203991068962836/978385283139653703/unknown.png
