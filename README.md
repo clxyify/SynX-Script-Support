@@ -13,4 +13,8 @@ You can check the function by running a synapse X script!
 # Side Announcement
 
 Please use **SynX2** as it's better at non-detections.
-![]([https://github.com/user/banner.png](https://cdn.discordapp.com/attachments/977203991068962836/978385283139653703/unknown.png)]()
+
+If you want to see better explanation on it:
+https://cdn.discordapp.com/attachments/977203991068962836/978385283139653703/unknown.png
+
+You see it returns 'asd' otherwise if it doesn't, it will crash synapse X.
